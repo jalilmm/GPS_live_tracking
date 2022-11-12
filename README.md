@@ -1,5 +1,9 @@
 # GPS_live_tracking
 
+GPS coordinates was received from Android with TCP/IP protocol
 
+Pubnub API real-time communication
 
-![image](https://user-images.githubusercontent.com/53440786/201473232-1d7145db-4c8e-42ef-8770-94cea87b26be.png)
+Google Geolocation IP used for live mapping.
+
+![image](https://user-images.githubusercontent.com/53440786/201473333-1801cc2c-9b4e-4b26-8eae-9491f3be6906.png)
