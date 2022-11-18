@@ -23,8 +23,8 @@ import PIL
 
 pnChannel = "raspi-tracker";
 pnconfig = PNConfiguration()
-pnconfig.subscribe_key = "sub-c-83fc143c-2928-4699-b380-600c7bb9cf93"
-pnconfig.publish_key = "pub-c-728fae21-5786-4802-8c85-895f85974176"
+pnconfig.subscribe_key = "KEY"
+pnconfig.publish_key = "KEY"
 pnconfig.ssl = False
 pnconfig.user_id = "jalilmahmud92@gmail.com"
 pubnub = PubNub(pnconfig)
